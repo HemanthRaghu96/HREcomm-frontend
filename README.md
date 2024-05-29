@@ -1,3 +1,17 @@
+# HREcomm Application Frontend
+
+HREcomm Application is nothing but a wharehouse where a person get items from a vendor for low price and sells items for the custumors for profit. \
+In this application I have used my own API for Users ,Items ,Users ,Items ,Customers ,Admin ,Product ,Orders. \
+For all the individual API I made CRUD operations like add,edit,view selected data,delete in the UI. \
+I have used ReactJS ,"react-bootstrap ,Axios ,react-router-dom ,redux ,. \
+Kindly view the API documentation for more detailes.
+
+Frontend Server link : https://hrecomm.netlify.app/ \
+API documentation : 
+
+This project is open scorce, 🚀 Give a Star ⭐️ & Fork to this project ... Happy coding! 🤩
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
